@@ -1,2 +1,1 @@
-# Docker-Kuberbetes
-udemy
+# Docker-Kubernetes
